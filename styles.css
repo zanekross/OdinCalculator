@@ -22,7 +22,8 @@
     float: left;
 }
 
-.function-button {
+
+#clear, .function-button, #equals, #pointButton, #backspace  {   
     background-color: lightsalmon;
     color: gray;
     width: 25%;
@@ -56,4 +57,5 @@ div {
 #equals {
     background-color: orangered;
     color: white;
+    width: 50%;
 }
